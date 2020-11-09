@@ -1,0 +1,26 @@
+body{
+    min-width: 320px;
+    font-size: 14px;
+}
+
+img{
+    max-width: 100%;
+    height: auto;
+}
+
+header .nav-item{
+    margin-left: 10px;
+    text-transform: uppercase;
+}
+
+header .container{
+    padding-top: 0;
+    padding-bottom: 0;
+    background-color: lightgreen;
+}
+
+.container{
+    padding-top: 20px;
+    background-color: #eceabb;
+    padding-bottom: 20px;
+}
